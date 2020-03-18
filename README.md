@@ -13,6 +13,8 @@ Aqui temos a tradução para português do treinamento para **Certificação de 
 | CSS Grid                          | CSS Grid                              | 22		|
 | Responsive Web Design Projects    | Projetos de Web Design Responsivo     | 05		|
 
+===
+
 ## Javascript Algorithms and Data Structure Certification (300 hours)
 
 Aqui temos a tradução para português do treinamento para **Certificação de Algoritimos Javascript e Estrutura de Dados** da **FreeCodeCamp.Org** com uma carga de 300 horas de estudos.
