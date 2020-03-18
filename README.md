@@ -1,3 +1,4 @@
+# Course - 01
 ## Responsive Web Design Certification (300 hours)
 
 Aqui temos a tradução para português do treinamento para **Certificação de Web Design Rensponsivo** da **FreeCodeCamp.Org** com uma carga de 300 horas de estudos.
@@ -15,6 +16,7 @@ Aqui temos a tradução para português do treinamento para **Certificação de 
 
 ---
 
+# Course - 02
 ## Javascript Algorithms and Data Structure Certification (300 hours)
 
 Aqui temos a tradução para português do treinamento para **Certificação de Algoritimos Javascript e Estrutura de Dados** da **FreeCodeCamp.Org** com uma carga de 300 horas de estudos.
