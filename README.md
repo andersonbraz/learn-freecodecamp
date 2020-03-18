@@ -33,3 +33,21 @@ Aqui temos a tradução para português do treinamento para **Certificação de 
 | Functional Programming                              | Programação Funcional                                   | 24		|
 | Intermediate Algorithm Scripting                    | Script de Algoritmo Intermediário                       | 21		|
 | Javascript Algorithms and Date Structure Projects   | Algoritmo Javascript e Projetos de Estruturas de Dados  | 05		|
+
+# Course - 03
+## Front End Libraries Certification (300 hours)
+
+Aqui temos a tradução para português do treinamento para **Certificação Bibliotecas de Front End** da **FreeCodeCamp.Org** com uma carga de 300 horas de estudos.
+
+| Title        					                              | Título           					                              | Steps |
+| :-------------------------------------------------- | :------------------------------------------------------ | :----:|
+| Basic Javascript      	                            | Javascript Básico 				                              | 110	 	|
+| ES6 (EcmaScript)      				                      | ES6 (EcmaScript)      					                        | 31 		|
+| Regular Expressions    		                          | Expressão Regular       			                          | 33		|
+| Debugging            			                          | Depurando             			                            | 12		|
+| Basic Data Structure                                | Estruturas de Dados Básico                              | 20		|
+| Basic Algorithm Scripting                           | Script de Algoritmo Básico                              | 16		|
+| Object Oriented Programming                         | Programação Orientada a Objetos                         | 26		|
+| Functional Programming                              | Programação Funcional                                   | 24		|
+| Intermediate Algorithm Scripting                    | Script de Algoritmo Intermediário                       | 21		|
+| Javascript Algorithms and Date Structure Projects   | Algoritmo Javascript e Projetos de Estruturas de Dados  | 05		|
