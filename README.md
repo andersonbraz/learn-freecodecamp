@@ -34,6 +34,8 @@ Aqui temos a tradução para português do treinamento para **Certificação de 
 | Intermediate Algorithm Scripting                    | Script de Algoritmo Intermediário                       | 21		|
 | Javascript Algorithms and Date Structure Projects   | Algoritmo Javascript e Projetos de Estruturas de Dados  | 05		|
 
+---
+
 # Course - 03
 ## Front End Libraries Certification (300 hours)
 
