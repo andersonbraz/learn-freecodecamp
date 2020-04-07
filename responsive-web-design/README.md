@@ -18,13 +18,13 @@ Por exemplo:
 
 Torna-se:
 
-# Cabeçalho de nível superior: talvez um título de página
+# Top level heading: Maybe a page title
 
-Um parágrafo de texto. Algumas informações que gostaríamos de comunicar ao usuário. Isso pode ser tão longo ou curto quanto gostaríamos.
+A paragraph of text. Some information we would like to communicate to the viewer. This can be as long or short as we would like.
 
-1. Número um na lista
-2. Número dois
-3. Um terceiro item
+1. Number one on the list
+2. Number two
+3. A third item
 
 ---
 
