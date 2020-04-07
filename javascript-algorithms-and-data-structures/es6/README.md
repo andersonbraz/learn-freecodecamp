@@ -1,4 +1,4 @@
-Introdução aos desafios do ES6
+# Introdução aos desafios do ES6
 
 O ECMAScript é uma versão padronizada do JavaScript com o objetivo de unificar as especificações e os recursos do idioma. Como todos os principais navegadores e tempos de execução do JavaScript seguem essa especificação, o termo ECMAScript é intercambiável com o termo JavaScript .
 
