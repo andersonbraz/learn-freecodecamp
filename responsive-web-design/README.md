@@ -28,8 +28,8 @@ A paragraph of text. Some information we would like to communicate to the viewer
 
 ---
 
-A parte HyperText do HTML vem dos primeiros dias da Web e de seu caso de uso original. As páginas geralmente continham documentos estáticos que continham referências a outros documentos. Essas referências continham links de hipertexto usados ​​pelo navegador para navegar até o documento de referência, para que o usuário pudesse ler o documento de referência sem precisar procurá-lo manualmente.
+A parte HyperText do HTML acompanha a evolução da Web desde o seu início com poucas mudanças na sua forma original. As páginas geralmente continham documentos estáticos que continham referências a outros documentos. Essas referências continham links de hipertexto usados ​​pelo navegador para navegar até o documento de referência, para que o usuário pudesse ler o documento de referência sem precisar procurá-lo manualmente.
 
-À medida que as páginas e os aplicativos da Web se tornam mais complexos, o W3 Consortium atualiza a especificação HTML para garantir que uma página da Web possa ser mostrada de maneira confiável em qualquer navegador. A versão mais recente do HTML é HTML5.
+À medida que as páginas e os aplicativos da Web se tornam mais complexos, o [W3C](https://www.w3.org/Consortium/) atualiza a especificação HTML para garantir que uma página da Web possa ser mostrada de maneira confiável em qualquer navegador. A versão mais recente do HTML é HTML5.
 
-Esta seção apresenta como usar elementos HTML para fornecer estrutura e significado ao seu conteúdo da web.
+Esta seção de estudo, a partir das próximas lições, apresentará a você como usar elementos HTML para fornecer estrutura e significado ao seu conteúdo da web.
