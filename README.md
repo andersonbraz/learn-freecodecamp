@@ -5,7 +5,7 @@ Aqui temos a tradução para português do treinamento para **Certificação de 
 
 | Title        					            | Título           					            | Steps |
 | :-------------------------------- | :-------------------------------------| :----:|
-| Basic HTML and HTML 5      	      | HTML Básico e HTML				            | 28	 	|
+| Basic HTML and HTML 5      	      | HTML Básico e HTML 5			            | 28	 	|
 | Basic CSS      				            | CSS Básico      					            | 44 		|
 | Applied Visual Design 		        | Design Visual Aplicado  			        | 52		|
 | Applied Acessibility 			        | Acessibilidade Aplicada			          | 22		|
