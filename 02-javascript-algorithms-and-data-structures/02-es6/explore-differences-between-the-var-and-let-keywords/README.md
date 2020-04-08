@@ -28,3 +28,4 @@ x = 3.14; // throws an error because x is not declared
 ## Desafio:
 
 Atualize o código para que ele use apenas a palavra-chave **let**.
+
